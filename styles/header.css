@@ -1,6 +1,9 @@
 header {
     height: 12em;
-    background-color: #82D8CE;
+    background-image: url(/assets/waves.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 h1 {
     font-size: 6em;
