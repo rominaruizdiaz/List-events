@@ -1,6 +1,6 @@
 header {
     height: 12em;
-    background-image: url(/assets/waves.png);
+    background-image: url(./assets/waves.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
