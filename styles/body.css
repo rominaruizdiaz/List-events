@@ -15,7 +15,7 @@ article {
     flex-direction: column;
     color: white;
 }
-.date__numb {
+.date__number {
     font-size: 5em;
 }
 .date__month {
@@ -24,7 +24,11 @@ article {
 .event {
     width: fit-content;
     padding: 10px 60px;
-    flex-direction: column
+    flex-direction: column;
+}
+.event__text {
+    height: 210px;
+    flex-direction: column;
 }
 h2 {
     font-size: 2em;
@@ -35,7 +39,6 @@ h2 {
     flex-direction: column;
     align-items: center;
     width: fit-content;
-    margin-left: 55%;
 }
 button {
     background-color: #E4FFEF;
